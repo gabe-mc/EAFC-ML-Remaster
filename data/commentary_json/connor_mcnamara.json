@@ -1,0 +1,50 @@
+{
+  "player_performance": {
+    "brilliance": "NAME has been excellent in taking control of the midfield, guiding the play, and maintaining possession.",
+    "quickness": "NAME displayed quick reflexes to intercept the ball and initiate a counter-attack.",
+    "rescue_play": "Brilliant work by NAME to get back and make the challenge just when NAME was sizing up the opportunity.",
+    "decision_making": "NAME hesitated when he should have made a decisive move forward.",
+    "adaptability": "Right from the start, and I think they're kind of hybrid roles really for NAME, who's got to get wide now and again.",
+    "creative_play": "His creative package is all-inclusive. He's got a lot.",
+    "boldness": "I think NAME has had a cracking second half. He's been much bolder and adventurous."
+  },
+  "team_tactics": {
+    "formation_change": "See the change in the structure as soon as possession is gained from TEAM1? NAME and NAME get much more advanced.",
+    "packed_defense": "TEAM1 have packed the red shirts behind it. Although NAME looks like the one if, right now, TEAM2 are going to find that telling pass or that little bit of incision.",
+    "counterattack_analysis": "We've seen a couple of promising counterattacks from TEAM1 so far, but look how deep they are.",
+    "attacking_patterns": "For TEAM2 at the moment, it's kind of in these positions, space, space, and then as soon as they advance ten yards, where's the space? There is none.",
+    "possession_play": "TEAM2 are backing it up with the attempts, although I'm sure they'd like another one or two and certainly a little more on target.",
+    "defensive_structure": "Nobody is willing to even attempt to back NAME’s run."
+  },
+  "referee_decisions": {
+    "waved_away": "Referee just kind of waved that one away as if NAME was looking for it.",
+    "foul_appeal": "Instant appeal, and it just kind of brushed off NAME. But the referee says no. Good try.",
+    "controversial_decision": "Well, it looks like he's given the decision TEAM2's way. It looked like a coming together when I first saw it, but the referee obviously feels that there was more to it than that.",
+    "player_reaction": "It doesn't waste an opportunity to have a word with one of his players if they come near, and NAME has just been on the receiving end.",
+    "match_control": "Referee was stopping the game because both of them just collided accidentally, and it was going to be a drop ball."
+  },
+  "goal_scoring": {
+    "missed_opportunity": "NAME should have buried that. It's a huge relief for him it didn't cost them.",
+    "goalkeeper_save": "Brilliant reflexes from the keeper to save what looked like a sure goal.",
+    "goal_attempt": "Now something with a little more accuracy is needed. And it didn't arrive.",
+    "set_piece_analysis": "The last one from NAME on the corner seemed to be near post. Usually, it's lifted a little higher than that for the guys coming in from the far post.",
+    "game_winning_moments": "That's a great save. An outstanding save to recover. He knows the spin on the ball and how it's going to enter the net unless he really reacts fast. Fast. That's a great save."
+  },
+  "fan_reaction": {
+    "disgruntled_crowd": "Listen to the disgruntlement around the stadium, the fact that TEAM1 have gone backwards.",
+    "fans_targeting_player": "I think the TEAM2 fans in that corner are on NAME’s case.",
+    "momentum_shift": "I've really enjoyed the second half. The first half was a little dull. NAME has gone central now just to leave NAME recover.",
+    "frustration": "Any sort of opening for TEAM2 is precious now because they know they’re not going to get too many."
+  },
+  "general_match_analysis": {
+    "game_momentum": "That's the way it is in the game nowadays, isn't it? What a touch. What a touch. What a touch from NAME.",
+    "match_trends": "Any sort of opening for TEAM2 is precious now because they know they’re not going to get too many.",
+    "key_moments": "What is it, 30 seconds? I mean, that could be some joy for NAME because we know NAME just looks at him now.",
+    "match_intensity": "That's a great save. An outstanding save to recover. He knows the spin on the ball and how it's going to enter the net unless he really reacts fast. Fast. That's a great save.",
+    "game_management": "That's the way it is in the game nowadays, isn't it? Players have to be more aware of these situations."
+  },
+  "misc": {
+    "general_observation": "What is it, 30 seconds? I mean, that could be some joy for NAME because we know NAME just looks at him now.",
+    "after_shot": "Yeah, I mean, it's very clever. I mean, the goalkeeper does move slightly to his left thinking, you know, I'll be able to get across, but not the way it was hit."
+  }
+}
