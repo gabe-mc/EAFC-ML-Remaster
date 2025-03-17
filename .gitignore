@@ -1,1 +1,2 @@
 env
+models/yolo_v5_pretrained.pt
